@@ -22,3 +22,8 @@ Surprisingly out-of-school learning hours do not have an influence on the math o
 - Math anxiety per gender
 - Influence of math anxiety in general on the math score
 - Math anxiety survey question answers in relation to the math score for one selected question
+
+## Credits
+
+- PISA 2012 data https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisa2012.csv.zip&sa=D&ust=1581581520574000
+- PISA 2012 dictionary https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud507/pisadict2012.csv&sa=D&ust=1554482573645000
